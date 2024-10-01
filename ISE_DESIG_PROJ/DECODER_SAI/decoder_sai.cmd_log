@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/decoder_sai.xst" -ofn "C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/decoder_sai.syr" 
+xst -intstyle ise -ifn "C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/decoder_sai.xst" -ofn "C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/decoder_sai.syr" 
+xst -intstyle ise -ifn "C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/decoder_sai.xst" -ofn "C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/decoder_sai.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc decoder_sai.ucf -p xc3s100e-cp132-5 decoder_sai.ngc decoder_sai.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o decoder_sai_map.ncd decoder_sai.ngd decoder_sai.pcf 
+par -w -intstyle ise -ol high -t 1 decoder_sai_map.ncd decoder_sai.ncd decoder_sai.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml decoder_sai.twx decoder_sai.ncd -o decoder_sai.twr decoder_sai.pcf -ucf decoder_sai.ucf 
+bitgen -intstyle ise -f decoder_sai.ut decoder_sai.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc decoder_sai.ucf -p xc3s100e-cp132-5 decoder_sai.ngc decoder_sai.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o decoder_sai_map.ncd decoder_sai.ngd decoder_sai.pcf 
+par -w -intstyle ise -ol high -t 1 decoder_sai_map.ncd decoder_sai.ncd decoder_sai.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml decoder_sai.twx decoder_sai.ncd -o decoder_sai.twr decoder_sai.pcf -ucf decoder_sai.ucf 
+bitgen -intstyle ise -f decoder_sai.ut decoder_sai.ncd 

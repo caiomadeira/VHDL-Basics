@@ -1,0 +1,45 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue Oct 01 09:54:02 2024
+# Process ID: 3120
+# Log file: C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/caio.madeira/Desktop/ISE_DESIG_PROJ/DECODER_SAI/pa.fromNetlist.tcl
+set_property prohibit 1 [get_sites N13]
+set_property prohibit 0 [get_sites N13]
+startgroup
+set_property package_pin L3 [get_ports {entrada[1]}]
+endgroup
+startgroup
+set_property package_pin P11 [get_ports {entrada[0]}]
+endgroup
+set_property is_loc_fixed false [get_ports [list  {entrada[0]}]]
+set_property is_loc_fixed true [get_ports [list  {entrada[0]}]]
+startgroup
+set_property package_pin L14 [get_ports {display[6]}]
+endgroup
+set_property is_loc_fixed false [get_ports [list  {display[6]}]]
+startgroup
+set_property package_pin H12 [get_ports {display[5]}]
+endgroup
+startgroup
+set_property package_pin N14 [get_ports {display[4]}]
+endgroup
+startgroup
+set_property package_pin N11 [get_ports {display[3]}]
+endgroup
+startgroup
+set_property package_pin P12 [get_ports {display[2]}]
+endgroup
+startgroup
+set_property package_pin L13 [get_ports {display[1]}]
+endgroup
+startgroup
+set_property package_pin M12 [get_ports {display[0]}]
+endgroup
+save_constraints
+set_property is_loc_fixed true [get_ports [list  {display[6]}]]
+save_constraints
