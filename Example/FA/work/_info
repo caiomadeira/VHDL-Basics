@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/24280006/Desktop/Material_de_Apoio/FA
+T_opt
+!s110 1728387814
+V:TAkRBACN0PIZoU@THN843
+04 2 2 work tb tb 1
+=1-000ae431a4f1-67051ae5-c6e5c-1069
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+R0
+Efull_adder
+Z1 w1631392479
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8full_adder.vhd
+Z7 Ffull_adder.vhd
+l0
+L11 1
+V4ea8^Bo<jJhn<1?d?QXb10
+!s100 []WoF:KE_9ji33ZgQfI=R2
+Z8 OL;C;2021.3;73
+32
+Z9 !s110 1728388383
+!i10b 1
+Z10 !s108 1728388383.000000
+Z11 !s90 -reportprogress|300|-work|work|full_adder.vhd|
+Z12 !s107 full_adder.vhd|
+!i113 0
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Afull_adder
+R2
+R3
+R4
+R5
+Z15 DEx4 work 10 full_adder 0 22 4ea8^Bo<jJhn<1?d?QXb10
+!i122 0
+l20
+L19 8
+VOBN59J5Y68Y5>730^Q9Vn3
+!s100 RWmB1`;DW3n[_4V`_LjU?1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Etb
+Z16 w1631395040
+R4
+R5
+!i122 1
+R0
+Z17 8tb.vhd
+Z18 Ftb.vhd
+l0
+L10 1
+Vg5C@P]aHdN4?A>KR?R?>40
+!s100 V=C=Q?WLg;S<_29NdYZg51
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|tb.vhd|
+!s107 tb.vhd|
+!i113 0
+R13
+R14
+Atb
+R2
+R3
+R15
+R4
+R5
+DEx4 work 2 tb 0 22 g5C@P]aHdN4?A>KR?R?>40
+!i122 1
+l19
+L16 15
+V0kUo[H`ZQAoD39Fa2beWa2
+!s100 F<X3IOhDQf<d1]IoEj7;e2
+R8
+32
+R9
+!i10b 1
+R10
+R19
+Z20 !s107 tb.vhd|
+!i113 0
+R13
+R14
