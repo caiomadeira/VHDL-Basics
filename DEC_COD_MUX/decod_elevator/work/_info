@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/24280006/Desktop/VHDL-Basics/DEC_COD_MUX/decod_elevator
+Eex2
+w1728561209
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+8ex2.vhd
+Fex2.vhd
+l0
+L10 1
+VD^:;5=D<?<b9I1267Dcll0
+!s100 [_K60JES]eZfMkBn?MHA_1
+OL;C;2021.3;73
+32
+!s110 1728561296
+!i10b 1
+!s108 1728561296.000000
+!s90 -reportprogress|300|-work|work|ex2.vhd|
+!s107 ex2.vhd|
+!i113 0
+o-work work
+tExplicit 1 CvgOpt 0
