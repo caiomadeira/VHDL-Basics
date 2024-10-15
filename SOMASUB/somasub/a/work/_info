@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/24280006/Desktop/VHDL-Basics/SOMASUB/somasub/a
+T_opt
+!s110 1728991777
+VS<lCdNbc6EoR[;n6PjkUJ0
+04 2 2 work tb tb 1
+=1-000ae431a4f1-670e5220-be77e-13f1
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Esoma_sub
+Z1 w1728991720
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8soma_sub.vhd
+Z5 Fsoma_sub.vhd
+l0
+L10 1
+V6lXmIKPX9iV<BmHT2oDD70
+!s100 oHJNnH<Eebk>nimOTfEHd0
+Z6 OL;C;2021.3;73
+32
+Z7 !s110 1728991776
+!i10b 1
+Z8 !s108 1728991775.000000
+Z9 !s90 -reportprogress|300|-work|work|soma_sub.vhd|
+Z10 !s107 soma_sub.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Asoma_sub
+R2
+R3
+Z13 DEx4 work 8 soma_sub 0 22 6lXmIKPX9iV<BmHT2oDD70
+!i122 0
+l20
+L18 8
+VYk]<3g3E?7Vd0f7[Ya`k80
+!s100 G9kNA>aaQ9a:Ycm2P:>dR0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Etb
+Z14 w1602362117
+R2
+R3
+!i122 1
+R0
+Z15 8tb.vhd
+Z16 Ftb.vhd
+l0
+L4 1
+VD6o;3Vo@RDe?ZbdCHA2P>1
+!s100 ]GLHd]`S[@_o3e`SNSTnX1
+R6
+32
+R7
+!i10b 1
+Z17 !s108 1728991776.000000
+Z18 !s90 -reportprogress|300|-work|work|tb.vhd|
+Z19 !s107 tb.vhd|
+!i113 0
+R11
+R12
+Atb
+R13
+R2
+R3
+DEx4 work 2 tb 0 22 D6o;3Vo@RDe?ZbdCHA2P>1
+!i122 1
+l10
+L7 15
+V_WbIMiWNa=nI4ER^AUoQh3
+!s100 TZ82FPfXA66g@jo;G?YEX1
+R6
+32
+R7
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R11
+R12
