@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/24280006/Desktop/exercicios/divisordeclock
+T_opt
+Z1 !s110 1729771616
+Vn`0?jEBUo_3NGzG;ddikP2
+04 2 2 work tb tb 1
+=1-000ae431a4f1-671a3860-8cbc6-1ed1
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Eex2
+Z2 w1729771588
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z7 8ex2.vhd
+Z8 Fex2.vhd
+l0
+L6 1
+VFLMMQhYl]fS@CG_AH^Dih1
+!s100 DaHf3Zk8bX_GN62NB;B^f0
+Z9 OL;C;2021.3;73
+32
+R1
+!i10b 1
+Z10 !s108 1729771616.000000
+Z11 !s90 -reportprogress|300|-work|work|ex2.vhd|
+Z12 !s107 ex2.vhd|
+!i113 0
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Aex2
+R3
+R4
+R5
+R6
+Z15 DEx4 work 3 ex2 0 22 FLMMQhYl]fS@CG_AH^Dih1
+!i122 0
+l16
+L11 31
+VneKbD:6Oaa;JJI:EcM0=73
+!s100 j^M;DV?BZnV7NJSCEdKdA3
+R9
+32
+R1
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Etb
+Z16 w1603886153
+R5
+R6
+!i122 1
+R0
+Z17 8tb.vhd
+Z18 Ftb.vhd
+l0
+L10 1
+Vg5C@P]aHdN4?A>KR?R?>40
+!s100 V=C=Q?WLg;S<_29NdYZg51
+R9
+32
+R1
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|tb.vhd|
+Z20 !s107 tb.vhd|
+!i113 0
+R13
+R14
+Atb
+R3
+R4
+R15
+R5
+R6
+DEx4 work 2 tb 0 22 g5C@P]aHdN4?A>KR?R?>40
+!i122 1
+l19
+L16 11
+Vf6f84@U6DA[fGinmkJzcb1
+!s100 IMDgG3]dn=X0hcLM29Xbo1
+R9
+32
+R1
+!i10b 1
+R10
+R19
+R20
+!i113 0
+R13
+R14

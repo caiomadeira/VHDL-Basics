@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/24280006/Desktop/exercicios/somador4bits
+T_opt
+!s110 1729771007
+VKDBT90C39AB4PifGUd1eO3
+04 2 2 work tb tb 1
+=1-000ae431a4f1-671a35fe-3640e-1a8b
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Eex1
+Z1 w1729771001
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8ex1.vhd
+Z7 Fex1.vhd
+l0
+L7 1
+VU5OFO?KA`G_>Th^j]aXPN1
+!s100 I@PEFd:6I`_QUAj63:AZ62
+Z8 OL;C;2021.3;73
+32
+Z9 !s110 1729771005
+!i10b 1
+Z10 !s108 1729771005.000000
+Z11 !s90 -reportprogress|300|-work|work|ex1.vhd|
+Z12 !s107 ex1.vhd|
+!i113 0
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Aex1
+R2
+R3
+R4
+R5
+Z15 DEx4 work 3 ex1 0 22 U5OFO?KA`G_>Th^j]aXPN1
+!i122 0
+l21
+L17 21
+VVCNDj_0;AiXAFNHgD:U<e1
+!s100 0KAH<PA;EelO<E]WIKael1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Etb
+Z16 w1603885929
+R4
+R5
+!i122 1
+R0
+Z17 8tb.vhd
+Z18 Ftb.vhd
+l0
+L10 1
+Vg5C@P]aHdN4?A>KR?R?>40
+!s100 V=C=Q?WLg;S<_29NdYZg51
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|tb.vhd|
+Z20 !s107 tb.vhd|
+!i113 0
+R13
+R14
+Atb
+R2
+R3
+R15
+R4
+R5
+DEx4 work 2 tb 0 22 g5C@P]aHdN4?A>KR?R?>40
+!i122 1
+l20
+L16 14
+VWdHN=e[YkXaSokUS6b27@2
+!s100 :?mcQXKc]IC0Baz]H_Pi`3
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 0
+R13
+R14
