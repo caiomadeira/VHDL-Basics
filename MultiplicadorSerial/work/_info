@@ -1,0 +1,114 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/24280006/Desktop/VHDL-Basics/MultiplicadorSerial
+T_opt
+!s110 1730981847
+V2ID_UgBk8=b^h]>SMABj13
+04 2 2 work tb tb 1
+=1-000ae431a4f1-672cafd6-e5e27-16a3
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=lprn
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Emult
+Z2 w1730981842
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R1
+Z7 8mult.vhd
+Z8 Fmult.vhd
+l0
+L11 1
+VaOa;lf1=4WMzgfP8dHzJC0
+!s100 8TZgV5Q]ZkhTK_^hS^;G70
+Z9 OL;C;2021.3;73
+32
+Z10 !s110 1730981846
+!i10b 1
+Z11 !s108 1730981846.000000
+Z12 !s90 -reportprogress|300|-work|work|mult.vhd|
+Z13 !s107 mult.vhd|
+!i113 0
+Z14 o-work work
+Z15 tExplicit 1 CvgOpt 0
+Amult
+R3
+R4
+R5
+R6
+Z16 DEx4 work 4 mult 0 22 aOa;lf1=4WMzgfP8dHzJC0
+!i122 0
+l28
+L22 70
+V]ah2Dhn[[[=Mb0Qzn;@4i1
+!s100 Zi0314R3Ge5_N[1aR4cd>0
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Etb
+Z17 w1631223773
+R5
+R6
+!i122 1
+R1
+Z18 8tb.vhd
+Z19 Ftb.vhd
+l0
+L10 1
+Vg5C@P]aHdN4?A>KR?R?>40
+!s100 V=C=Q?WLg;S<_29NdYZg51
+R9
+32
+R10
+!i10b 1
+R11
+Z20 !s90 -reportprogress|300|-work|work|tb.vhd|
+Z21 !s107 tb.vhd|
+!i113 0
+R14
+R15
+Atb
+R3
+R4
+R16
+R5
+R6
+DEx4 work 2 tb 0 22 g5C@P]aHdN4?A>KR?R?>40
+!i122 1
+l21
+L16 23
+Vk93jcVV8fh1QZ6bhzNokf0
+!s100 L9^ezYk65UnO_6XLJQWoh0
+R9
+32
+R10
+!i10b 1
+R11
+R20
+R21
+!i113 0
+R14
+R15
