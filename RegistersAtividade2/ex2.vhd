@@ -23,7 +23,7 @@ end entity;
 --------------------------------------
 architecture shift_reg of shift_reg is 
   signal iA, iB, iC: std_logic_vector(N-1 downto 0);
-  signal countUP: std_logic_vector(N-1 downto 0);
+  signal countUP: std_logic_vector(N-1 downto 0); 
 begin
   process (clk, reset)
   begin
